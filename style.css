@@ -9,7 +9,7 @@ padding: 0;
     background-color: rgb(167, 166, 166);
    
     font-family: 'Cabin', sans-serif;
-    height:100vh;
+    height:200vh;
     transition:transform 0.3s ease-in;
 }
 .sidebar nav li a{
@@ -165,7 +165,7 @@ h2{
     margin-top:20px;
 }
 .cross{
-    margin-left:220px;
+    margin-left:165px;
 }
 .sidebarGo{
     transform: translate(-443px,0px);
